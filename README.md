@@ -63,7 +63,7 @@ while i < n:
 s.close() 
 ```
 ## OUPUT
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/845f67e2-a3bc-4e03-ab35-b49cfad6ea42" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/00b6913c-f003-45d7-b16b-0efee49446e2" />
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
